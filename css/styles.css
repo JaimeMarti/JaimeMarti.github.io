@@ -10112,3 +10112,10 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.fake-fa-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-top: -11px;
+}
